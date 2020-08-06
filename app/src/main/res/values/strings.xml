@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="name">Dávid Tremmel</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hello, I\'m David Tremmel and I\'d like to learn Android programming with Kotlin.\n\nI was born in Budapest and I’m studying Computer Science in Veszprém. I like taking photos, learning new cultures and discovering the world 🙂\n\nI spent my whole 2018/19 academic year in Seville with Erasmus+ programme, so my blog mostly about my adventures back there in Seville.\nYou can find all kind of stories on my blog. Tips, experiences and opinions await you in my posts.</string>
 </resources>
